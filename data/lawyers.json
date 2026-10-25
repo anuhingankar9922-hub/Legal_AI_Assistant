@@ -1,0 +1,14 @@
+[
+  {"name": "Adv. Priya Deshmukh", "city": "Amravati", "state": "Maharashtra", "languages": ["en", "hi", "mr"], "phone": "+91-90000-00001", "fees": 800, "experience": 9, "specialization": ["Family", "Divorce", "Domestic Violence"]},
+  {"name": "Adv. Rahul Wankhede", "city": "Amravati", "state": "Maharashtra", "languages": ["en", "hi", "mr"], "phone": "+91-90000-00002", "fees": 600, "experience": 6, "specialization": ["Property", "Rent", "Consumer"]},
+  {"name": "Adv. Meera Joshi", "city": "Nagpur", "state": "Maharashtra", "languages": ["en", "hi", "mr"], "phone": "+91-90000-00003", "fees": 1200, "experience": 12, "specialization": ["Labour", "Contract", "Cheque Bounce"]},
+  {"name": "Adv. Sandeep Kulkarni", "city": "Pune", "state": "Maharashtra", "languages": ["en", "mr"], "phone": "+91-90000-00004", "fees": 1500, "experience": 14, "specialization": ["Property", "RERA", "Contract"]},
+  {"name": "Adv. Sneha Iyer", "city": "Mumbai", "state": "Maharashtra", "languages": ["en", "hi", "mr"], "phone": "+91-90000-00005", "fees": 3000, "experience": 15, "specialization": ["Property", "Consumer", "RERA"]},
+  {"name": "Adv. Farhan Shaikh", "city": "Mumbai", "state": "Maharashtra", "languages": ["en", "hi"], "phone": "+91-90000-00006", "fees": 2500, "experience": 11, "specialization": ["Criminal", "Cyber Crime"]},
+  {"name": "Adv. Rajesh Kumar", "city": "Delhi", "state": "Delhi", "languages": ["en", "hi"], "phone": "+91-90000-00007", "fees": 2500, "experience": 13, "specialization": ["Criminal", "Cheque Bounce"]},
+  {"name": "Adv. Anjali Verma", "city": "Delhi", "state": "Delhi", "languages": ["en", "hi"], "phone": "+91-90000-00008", "fees": 2000, "experience": 8, "specialization": ["Family", "Divorce", "Labour"]},
+  {"name": "Adv. Kavita Rao", "city": "Bengaluru", "state": "Karnataka", "languages": ["en", "hi"], "phone": "+91-90000-00009", "fees": 2200, "experience": 10, "specialization": ["Cyber Crime", "Contract", "Trademark"]},
+  {"name": "Adv. Vikram Patil", "city": "Nashik", "state": "Maharashtra", "languages": ["en", "hi", "mr"], "phone": "+91-90000-00010", "fees": 700, "experience": 7, "specialization": ["Labour", "Consumer", "Rent"]},
+  {"name": "Adv. Neha Gupta", "city": "Lucknow", "state": "Uttar Pradesh", "languages": ["en", "hi"], "phone": "+91-90000-00011", "fees": 900, "experience": 5, "specialization": ["Family", "Domestic Violence", "Consumer"]},
+  {"name": "Adv. Arvind Bhosale", "city": "Pune", "state": "Maharashtra", "languages": ["en", "hi", "mr"], "phone": "+91-90000-00012", "fees": 1800, "experience": 16, "specialization": ["Criminal", "Cheque Bounce", "Property"]}
+]
